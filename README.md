@@ -1,6 +1,6 @@
 ## About
 
-I'm a web developer and software architect.
+I'm a software developer, specializing in fullstack development.
 
 ## Skills
 
