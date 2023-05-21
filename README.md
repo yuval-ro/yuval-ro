@@ -1,6 +1,6 @@
 ## About
 
-I am a web developer and a software architect.
+I'm a web developer and software architect.
 
 ## Skills
 
