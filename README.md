@@ -5,9 +5,9 @@ I'm a software developer, specializing in fullstack development.
 ## Skills
 
 ### Languages
-![Python3](https://img.shields.io/badge/%ad-Python%203-blue?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/%ad-TypeScript-blue?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/%ad-JavaScript-yellow?logo=javascript&logoColor=white)
+![Python3](https://img.shields.io/badge/%ad-Python%203-blue?logo=python&logoColor=white)
 
 ### Frontend Stack
 [![React](https://img.shields.io/badge/%ad-React.js-61DAFB?logo=react&logoColor=white)](https://react.dev/)
