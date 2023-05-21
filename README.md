@@ -1,4 +1,4 @@
-# Welcome to my Github profile!
+# About
 
 I am a web developer and software architect.
 
