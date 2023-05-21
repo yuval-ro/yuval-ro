@@ -11,7 +11,7 @@ I'm a software developer, specializing in fullstack development.
 
 ### Frontend Stack
 [![React](https://img.shields.io/badge/%ad-React.js-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Bootstrap v5.0](https://img.shields.io/badge/%ad-Bootstrap%20v5.0-blueviolet?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bootstrap v5.0](https://img.shields.io/badge/%ad-Bootstrap%20v5.0-6D2CF0?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Redux TK](https://img.shields.io/badge/%ad-Redux%20Toolkit-593D88?logo=redux)](https://redux-toolkit.js.org/)
 
 ### Backend Stack
