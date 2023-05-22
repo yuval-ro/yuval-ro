@@ -5,18 +5,18 @@ I'm a software developer, specializing in fullstack development.
 ## Skills
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/%ad-TypeScript-blue?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/%ad-JavaScript-yellow?logo=javascript&logoColor=white)
-![Python3](https://img.shields.io/badge/%ad-Python%203-blue?logo=python&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/%ad-TypeScript-blue?logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/%ad-JavaScript-yellow?logo=javascript&logoColor=white)]()
+[![Python3](https://img.shields.io/badge/%ad-Python%203-blue?logo=python&logoColor=white)]()
 
 ### Frontend Stack
 [![React](https://img.shields.io/badge/%ad-React.js-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Bootstrap v5.0](https://img.shields.io/badge/%ad-Bootstrap%20v5.0-6D2CF0?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Redux TK](https://img.shields.io/badge/%ad-Redux%20Toolkit-593D88?logo=redux)](https://redux-toolkit.js.org/)
+[![Bootstrap](https://img.shields.io/badge/%ad-Bootstrap-6D2CF0?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### Backend Stack
 [![Node.js](https://img.shields.io/badge/%ad-Node.js-forestgreen?logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express](https://img.shields.io/badge/%ad-Express.js-grey?logo=express&logoColor=white)](https://expressjs.com/)
+[![Express](https://img.shields.io/badge/%ad-Express.js-2D2D2D?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/%ad-MongoDB-forestgreen?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/%ad-Mongoose-6e0808?logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![Django](https://img.shields.io/badge/%ad-Django-0C4B33?logo=django&logoColor=white)](https://www.djangoproject.com/)
