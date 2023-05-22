@@ -30,7 +30,7 @@ I'm a software developer, specializing in fullstack development.
 ### Development Tools
 [![VSCode](https://img.shields.io/badge/%ad-VSCode-blue?logo=visualstudiocode&logoColor=2a93de&logoColor=white)](https://code.visualstudio.com/)
 [![Choco](https://img.shields.io/badge/%ad-choco-80B5E3?logo=chocolatey&logoColor=white)](https://chocolatey.org/)
-[![npm](https://img.shields.io/badge/%ad-npm-orange?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![npm](https://img.shields.io/badge/%ad-npm-F42F05?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/%ad-yarn-2188B6?logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![pip](https://img.shields.io/badge/%ad-pip-blue?logo=pypi&logoColor=white)](https://pypi.org/)
 
