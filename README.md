@@ -2,37 +2,38 @@
 
 I'm a software developer, specializing in fullstack development.
 
-## Skills
+## Skills and Stacks
 
 ### Languages
-[![TypeScript](https://img.shields.io/badge/%ad-TypeScript-blue?logo=typescript&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/%ad-JavaScript-yellow?logo=javascript&logoColor=white)]()
-[![Python3](https://img.shields.io/badge/%ad-Python%203-blue?logo=python&logoColor=white)]()
 
-### Frontend Stack
-[![React](https://img.shields.io/badge/%ad-React.js-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Redux TK](https://img.shields.io/badge/%ad-Redux%20Toolkit-593D88?logo=redux)](https://redux-toolkit.js.org/)
-[![Bootstrap](https://img.shields.io/badge/%ad-Bootstrap-6D2CF0?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![shields.io_js](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)
+![shields.io_ts](https://img.shields.io/static/v1?message=typescript&logo=typescript&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)  
+![shields.io_py](https://img.shields.io/static/v1?message=python3&logo=python&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)
 
-### Backend Stack
-[![Node.js](https://img.shields.io/badge/%ad-Node.js-forestgreen?logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express](https://img.shields.io/badge/%ad-Express.js-2D2D2D?logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/%ad-MongoDB-forestgreen?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Mongoose](https://img.shields.io/badge/%ad-Mongoose-6e0808?logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-[![Django](https://img.shields.io/badge/%ad-Django-0C4B33?logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/%ad-Flask-6CD3EB?logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
+### Frontend
+[![shields.io_react](https://img.shields.io/static/v1?message=react.js&logo=react&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://react.dev/)
+[![shields.io_reduxtk](https://img.shields.io/static/v1?message=redux%20toolkit&logo=redux&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://redux-toolkit.js.org/)  
+[![shields.io_bootstrap](https://img.shields.io/static/v1?message=bootstrap%20v5.2&logo=bootstrap&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://getbootstrap.com/)  
+
+### Backend
+[![shields.io_nodejs](https://img.shields.io/static/v1?message=node.js&logo=node.js&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://nodejs.org/en)
+[![shields.io_express](https://img.shields.io/static/v1?message=express.js&logo=express&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://expressjs.com/)  
+[![shields.io_mongodb](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://www.mongodb.com/)
+[![shields.io_mongoose](https://img.shields.io/static/v1?message=mongoose&logo=mongoose&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://mongoosejs.com/)  
+[![shields.io_django](https://img.shields.io/static/v1?message=django&logo=django&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://www.djangoproject.com/)  
 
 ### Data Science and Deep Learning
-[![PyTorch](https://img.shields.io/badge/%ad-PyTorch-EE4C2C?logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/%ad-Pandas-130654?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/%ad-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![shields.io_pytorch](https://img.shields.io/static/v1?message=pytorch&logo=pytorch&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://pytorch.org/)  
+[![shields.io_numpy](https://img.shields.io/static/v1?message=numpy&logo=numpy&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://numpy.org/)
+[![shields.io_pandas](https://img.shields.io/static/v1?message=pandas&logo=pandas&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://pandas.pydata.org/)
+
 
 ### Development Tools
-[![VSCode](https://img.shields.io/badge/%ad-VSCode-blue?logo=visualstudiocode&logoColor=2a93de&logoColor=white)](https://code.visualstudio.com/)
-[![Choco](https://img.shields.io/badge/%ad-choco-80B5E3?logo=chocolatey&logoColor=white)](https://chocolatey.org/)
-[![npm](https://img.shields.io/badge/%ad-npm-F42F05?logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Yarn](https://img.shields.io/badge/%ad-yarn-2188B6?logo=yarn&logoColor=white)](https://yarnpkg.com/)
-[![pip](https://img.shields.io/badge/%ad-pip-blue?logo=pypi&logoColor=white)](https://pypi.org/)
+[![shields.io_vscode](https://img.shields.io/static/v1?message=vscode&logo=visualstudiocode&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://code.visualstudio.com/)  
+[![shields.io_chocolatey](https://img.shields.io/static/v1?message=chocolatey%20v2.0&logo=chocolatey&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://chocolatey.org/)  
+[![shields.io_npm](https://img.shields.io/static/v1?message=npm&logo=npm&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://www.npmjs.com/)
+[![shields.io_yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://yarnpkg.com/)  
+[![shields.io_pip](https://img.shields.io/static/v1?message=pip&logo=pypi&labelColor=2d2d2d&color=3c3c3c&label=%20&style=for-the-badge)](https://pypi.org/)
 
 ## Stats
 <p>
