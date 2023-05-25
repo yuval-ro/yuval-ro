@@ -4,9 +4,6 @@ I'm a software developer, specializing in fullstack development.
 
 ## Skills and Stacks
 
-0d1117
-0d1117
-
 ### Languages
 
 ![shields.io_js](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)
