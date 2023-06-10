@@ -2,20 +2,21 @@
 
 I'm a software developer, specializing in fullstack development.
 
-## Skills and Stacks
+![github-profile-summary-cards.vercel.app/api/cards/profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuval-ro&theme=transparent)
+![github-readme-stats.vercel.app/api/top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuval-ro&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide_border=true&theme=transparent)
 
-### Languages
+## Skills
 
 ![shields.io_js](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)
 ![shields.io_ts](https://img.shields.io/static/v1?message=typescript&logo=typescript&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)  
 ![shields.io_py](https://img.shields.io/static/v1?message=python3&logo=python&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)
 
-### Frontend
+### Frontend stack
 [![shields.io_react](https://img.shields.io/static/v1?message=react.js&logo=react&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://react.dev/)
 [![shields.io_reduxtk](https://img.shields.io/static/v1?message=redux%20toolkit&logo=redux&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://redux-toolkit.js.org/)  
 [![shields.io_bootstrap](https://img.shields.io/static/v1?message=bootstrap%20v5.2&logo=bootstrap&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://getbootstrap.com/)  
 
-### Backend
+### Backend stack
 [![shields.io_nodejs](https://img.shields.io/static/v1?message=node.js&logo=node.js&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://nodejs.org/en)
 [![shields.io_express](https://img.shields.io/static/v1?message=express.js&logo=express&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://expressjs.com/)  
 [![shields.io_mongodb](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://www.mongodb.com/)
@@ -35,12 +36,3 @@ I'm a software developer, specializing in fullstack development.
 [![shields.io_yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://yarnpkg.com/)  
 [![shields.io_pip](https://img.shields.io/static/v1?message=pip&logo=pypi&labelColor=161b22&color=0d1117&label=%20&style=for-the-badge)](https://pypi.org/)
 
-## Stats
-<p>
-  <a href="https://github.com/yuval-ro">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuval-ro&theme=transparent" />
-  </a>
-    <a href="https://github.com/yuval-ro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuval-ro&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
