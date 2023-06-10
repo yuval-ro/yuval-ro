@@ -1,7 +1,3 @@
-## About
-
-I'm a software developer, specializing in fullstack development.
-
 ![github-profile-summary-cards.vercel.app/api/cards/profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuval-ro&theme=transparent)
 ![github-readme-stats.vercel.app/api/top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuval-ro&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide_border=true&theme=transparent)
 
