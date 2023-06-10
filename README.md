@@ -1,7 +1,7 @@
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuval-ro&theme=transparent" align="top" style="width:70%"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuval-ro&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide_border=true&theme=transparent" align="top" style="width:29%"></img>
-</div>
+
+|                                                                                                                      |                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuval-ro&theme=transparent) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=yuval-ro&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&hide_border=true&theme=transparent) |
 
 | Languages                                                            | Frontend                                                                      | Backend                                                                                   | Devtools                                                                     | DL                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
